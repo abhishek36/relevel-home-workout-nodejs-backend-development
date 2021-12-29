@@ -1,7 +1,7 @@
 {
-  "name": "day-to-day-expenses-backend-nodejs-backend",
+  "name": "home-workout-backend-nodejs-backend",
   "version": "1.0.0",
-  "description": "day-to-day-expenses backend assignment using Express",
+  "description": "home workout backend assignment using Express",
   "main": "src/server.js",
   "scripts": {
     "start": "NODE_ENV=prod node src/server",
